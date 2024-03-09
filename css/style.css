@@ -35,7 +35,7 @@ button {
 }
 
 .container {
-  width: 1128px;
+  width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
@@ -61,6 +61,7 @@ button {
 
 .header {
   background: #fff;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .container-header {
@@ -303,6 +304,11 @@ button {
 .portfolio-item {
   background: #fff;
   padding-bottom: 32px;
+  border: 1px solid #e7e9fc;
+}
+
+.portfolio-margin {
+  margin-bottom: 48px;
 }
 
 .portfolio-img {

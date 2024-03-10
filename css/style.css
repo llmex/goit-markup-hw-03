@@ -351,16 +351,6 @@ button {
   padding-bottom: 100px;
 }
 
-.container-footer {
-  display: flex;
-  flex-direction: column;
-}
-
-.container a {
-  margin-bottom: 16px;
-  display: inline-block;
-}
-
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -379,6 +369,11 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+}
+
+.footer .footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-text {

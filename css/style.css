@@ -356,9 +356,9 @@ button {
   flex-direction: column;
 }
 
-.footer .footer-logo {
-  display: inline-block;
+.footer a {
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .footer-logo {

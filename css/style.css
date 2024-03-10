@@ -356,7 +356,7 @@ button {
   flex-direction: column;
 }
 
-.footer a {
+.container a {
   margin-bottom: 16px;
   display: inline-block;
 }
